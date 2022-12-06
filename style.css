@@ -21,7 +21,7 @@
     height: 240px;
     top: -38px;
     right: 47px;
-    background-image: url('/img/gambar2.avif');
+    background-image: url('img/gambar2.avif');
     background-position: 18px 25px;
     background-size: cover;
     transform: rotate(-12deg);
@@ -34,7 +34,7 @@
     border-radius: 50%;
     top: -100px;
     left: 90px;
-    background-image: url('/img/duckProfil.jpg');
+    background-image: url('img/duckProfil.jpg');
     background-size: cover;
     background-position: 0 -55px
 }
